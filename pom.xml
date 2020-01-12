@@ -12,6 +12,7 @@
     <modules>
         <module>java-basics</module>
         <module>java-concurrency-framework</module>
+        <module>leetcode-algorithms-data-structures</module>
     </modules>
 
 
