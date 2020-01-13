@@ -13,10 +13,6 @@ package org.zxb.leetcode.algorithm;
  * 输入：(2 -> 4 -> 3) + (5 -> 6 -> 4)
  * 输出：7 -> 0 -> 8
  * 原因：342 + 465 = 708
- *˚
- * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/add-two-numbers
- * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  *
  * @author Mr.zxb
  * @date 2020-01-12 15:55
